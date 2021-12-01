@@ -1,4 +1,4 @@
-# my-projects
+# MY TUTORIALS
 These are my projects
 
 * [HTML Tutorial](https://vara-prasad-789.github.io/HTML-Developement-Tutorial/)
