@@ -1,14 +1,14 @@
-# [MY RESUME](https://drive.google.com/file/d/17NjGnEv6LV382kWOBYL6I3diBsoWQMte/view?usp=sharing) Link
+# [Vemula Vara Prasad Resume](https://drive.google.com/file/d/17NjGnEv6LV382kWOBYL6I3diBsoWQMte/view?usp=sharing) link
 
 # MY Projects
 
 ## These are my projects
-* [**`Covid19DashBoard`** Project](https://covid19dshboard.ccbp.tech/)
-* [**`Todo Application`** Project](https://todolistsite.ccbp.tech/)
-* [**`IPL Dashboard`** Project](https://ipldashboard709.ccbp.tech/)
-* [**`Github Repos`** Project](https://githubreposnxtw.ccbp.tech/)
-* [**`Food Munch`** Project](https://foodmuchrssite.ccbp.tech/)
-* [**`Ecommerce Site`** Project](https://flybuysitepage.ccbp.tech/)
+> * [**`Covid19DashBoard`** Project](https://covid19dshboard.ccbp.tech/)
+> * [**`Todo Application`** Project](https://todolistsite.ccbp.tech/)
+> * [**`IPL Dashboard`** Project](https://ipldashboard709.ccbp.tech/)
+> * [**`Github Repos`** Project](https://githubreposnxtw.ccbp.tech/)
+> * [**`Food Munch`** Project](https://foodmuchrssite.ccbp.tech/) 
+> * [**`Ecommerce Site`** Project](https://flybuysitepage.ccbp.tech/)
 
 
 
