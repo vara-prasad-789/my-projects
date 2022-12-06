@@ -9,6 +9,20 @@
 
 
 
+## Certifications
+* [**`Static Website`** Course](https://certificates.ccbp.in/intensive/static-website?id=NSSIZROXKX)
+* [**`Responsive Website`** Course](https://certificates.ccbp.in/intensive/responsive-website?id=OEEIFHPGBS)
+* [**`Dynamic Website`** Course](https://certificates.ccbp.in/intensive/dynamic-web-application?id=QOPZTZIIYO)
+* [**`JavaScript Essentials`** Course](https://certificates.ccbp.in/intensive/javascript-essentials?id=VEFORQZCYN)
+* [**`Responsive Web Design using Flexbox`** Course](https://certificates.ccbp.in/intensive/flexbox?id=UOCFBROFIT)
+* [**`Python`** Course](https://certificates.ccbp.in/intensive/programming-foundations?id=RMRZHAHOND)
+* [**`Developer Foundations`** Course](https://certificates.ccbp.in/intensive/developer-foundations?id=KOLMIISCZK)
+* [**`Databases`** Course](https://certificates.ccbp.in/intensive/introduction-to-databases?id=PCAKMJUESL)
+* [**`NodeJS`** Course](https://certificates.ccbp.in/intensive/node-js?id=OXMQVFBXHB)
+* [**`ReactJS`** Course](https://certificates.ccbp.in/intensive/react-js?id=TNPJBUZCMV)
+
+
+
 ### All Tutorials are only `Single Webpage Tutorials`
 
 
