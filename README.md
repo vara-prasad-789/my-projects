@@ -18,16 +18,16 @@
 
 
 ## Certifications
-* [**`Static Website`** Course](https://certificates.ccbp.in/intensive/static-website?id=NSSIZROXKX)
-* [**`Responsive Website`** Course](https://certificates.ccbp.in/intensive/responsive-website?id=OEEIFHPGBS)
-* [**`Dynamic Website`** Course](https://certificates.ccbp.in/intensive/dynamic-web-application?id=QOPZTZIIYO)
-* [**`JavaScript Essentials`** Course](https://certificates.ccbp.in/intensive/javascript-essentials?id=VEFORQZCYN)
-* [**`Responsive Web Design using Flexbox`** Course](https://certificates.ccbp.in/intensive/flexbox?id=UOCFBROFIT)
-* [**`Python`** Course](https://certificates.ccbp.in/intensive/programming-foundations?id=RMRZHAHOND)
-* [**`Developer Foundations`** Course](https://certificates.ccbp.in/intensive/developer-foundations?id=KOLMIISCZK)
-* [**`Databases`** Course](https://certificates.ccbp.in/intensive/introduction-to-databases?id=PCAKMJUESL)
-* [**`NodeJS`** Course](https://certificates.ccbp.in/intensive/node-js?id=OXMQVFBXHB)
-* [**`ReactJS`** Course](https://certificates.ccbp.in/intensive/react-js?id=TNPJBUZCMV)
+1. [**`Static Website`** Course](https://certificates.ccbp.in/intensive/static-website?id=NSSIZROXKX)
+2. [**`Responsive Website`** Course](https://certificates.ccbp.in/intensive/responsive-website?id=OEEIFHPGBS)
+3. [**`Dynamic Website`** Course](https://certificates.ccbp.in/intensive/dynamic-web-application?id=QOPZTZIIYO)
+4. [**`JavaScript Essentials`** Course](https://certificates.ccbp.in/intensive/javascript-essentials?id=VEFORQZCYN)
+5. [**`Responsive Web Design using Flexbox`** Course](https://certificates.ccbp.in/intensive/flexbox?id=UOCFBROFIT)
+6. [**`Python`** Course](https://certificates.ccbp.in/intensive/programming-foundations?id=RMRZHAHOND)
+7. [**`Developer Foundations`** Course](https://certificates.ccbp.in/intensive/developer-foundations?id=KOLMIISCZK)
+8. [**`Databases`** Course](https://certificates.ccbp.in/intensive/introduction-to-databases?id=PCAKMJUESL)
+9. [**`NodeJS`** Course](https://certificates.ccbp.in/intensive/node-js?id=OXMQVFBXHB)
+10. [**`ReactJS`** Course](https://certificates.ccbp.in/intensive/react-js?id=TNPJBUZCMV)
 
 
 
