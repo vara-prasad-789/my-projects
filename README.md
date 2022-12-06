@@ -45,12 +45,17 @@
 
 
 
-* [**`HTML`** Tutorial](https://vara-prasad-789.github.io/HTML-Developement-Tutorial/)
-* [**`CSS`** Tutorial](https://vara-prasad-789.github.io/CSS-Development-Tutorial/)
-* [**`CSS Advanced`** Tutorial](https://vara-prasad-789.github.io/CSS-Advanced-Tutorial/)
-* [**`BootStrap`** Turorial](https://vara-prasad-789.github.io/BootStrap-Tutorial/)
-* [**`JavaScript`** Tutorial](https://vara-prasad-789.github.io/Javascript-Tutorial/)
-* [**`SQL`** Tutorial](https://vara-prasad-789.github.io/SQL-Tutorial/)
+> * [**`HTML`** Tutorial](https://vara-prasad-789.github.io/HTML-Developement-Tutorial/)
+
+> * [**`CSS`** Tutorial](https://vara-prasad-789.github.io/CSS-Development-Tutorial/)
+
+> * [**`CSS Advanced`** Tutorial](https://vara-prasad-789.github.io/CSS-Advanced-Tutorial/)
+
+> * [**`BootStrap`** Turorial](https://vara-prasad-789.github.io/BootStrap-Tutorial/)
+
+> * [**`JavaScript`** Tutorial](https://vara-prasad-789.github.io/Javascript-Tutorial/)
+
+> * [**`SQL`** Tutorial](https://vara-prasad-789.github.io/SQL-Tutorial/)
 
 
 
