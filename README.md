@@ -1,4 +1,7 @@
-# MY TUTORIALS
+# [MY RESUME](https://drive.google.com/file/d/17NjGnEv6LV382kWOBYL6I3diBsoWQMte/view?usp=sharing) Link
+
+# MY Projects
+
 ## These are my projects
 * [**`Covid19DashBoard`** Project](https://covid19dshboard.ccbp.tech/)
 * [**`Todo Application`** Project](https://todolistsite.ccbp.tech/)
