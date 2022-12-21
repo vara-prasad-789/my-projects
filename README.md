@@ -6,6 +6,8 @@
 > [**`Covid19DashBoard`** Project](https://covid19dshboard.ccbp.tech/)
 
 > [**`Nxt Trends Shoopy`** Project](https://nxttrendsshoopy.ccbp.tech/)
+> username: rahul
+> password: rahul@2021
 
 > [**`Todo Application`** Project](https://todolistsite.ccbp.tech/)
 
