@@ -5,6 +5,8 @@
 ## These are my projects
 > [**`Covid19DashBoard`** Project](https://covid19dshboard.ccbp.tech/)
 
+> [**`Nxt Trends Shoopy`** Project](https://nxttrendsshoopy.ccbp.tech/)
+
 > [**`Todo Application`** Project](https://todolistsite.ccbp.tech/)
 
 > [**`IPL Dashboard`** Project](https://ipldashboard709.ccbp.tech/)
