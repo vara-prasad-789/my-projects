@@ -61,8 +61,6 @@
 
 > * [**`SQL`** Tutorial](https://vara-prasad-789.github.io/SQL-Tutorial/)
 
-
-
 - **`React.JS`** Tutorial will be added very soon.
 - **`Python`** Tutorial will be added very Soon.
 - **`MYSQL`** Tutorial will be added very Soon.
